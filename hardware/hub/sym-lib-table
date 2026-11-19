@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "signbridge") (type "KiCad") (uri "${KIPRJMOD}/lib/signbridge.kicad_sym") (options "") (descr ""))
+)

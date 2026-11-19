@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",136.500000,-103.800000,-90.000000,top
+"C2","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",138.500000,-103.800000,-90.000000,top
+"J1","Conn_01x05_Pin","PinHeader_1x05_P2.54mm_Vertical",130.000000,-95.420000,0.000000,top
+"U1","LSM6DS3TR-C","LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y",137.000000,-100.500000,0.000000,top

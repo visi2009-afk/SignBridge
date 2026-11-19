@@ -1,0 +1,4 @@
+Reference,Qty,Value,Footprint,LCSC,Link
+"C1,C2",2,100n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663,https://www.lcsc.com/product-detail/C14663.html
+J1,1,Conn_01x05_Pin,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,C50981,https://www.lcsc.com/product-detail/C50981.html
+U1,1,LSM6DS3TR-C,Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,C967633,https://www.lcsc.com/product-detail/C967633.html
